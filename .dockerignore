@@ -1,0 +1,5 @@
+.aws.env
+.gitignore
+docker-compose.yml
+Dockerfile
+venv/*

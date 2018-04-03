@@ -1,0 +1,6 @@
+[template]
+src = "template.conf.tmpl"
+dest = "/code/.env"
+keys = [
+  "/access_information" 
+]
